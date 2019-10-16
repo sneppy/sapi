@@ -1,0 +1,22 @@
+# Sync files
+/.bitpocket/
+/.bitignore
+
+# Build files
+__pycache__/
+*.py[cod]
+*.so
+/build/
+
+# Distribution files
+.Python
+*.egg-info
+wheels/
+lib/
+lib64/
+eggs/
+.eggs
+MANIFEST
+
+# Virtual env
+/venv/
